@@ -1,1 +1,1 @@
-# 8-12_9-1
+How many light bulbs are there in the classroom?
